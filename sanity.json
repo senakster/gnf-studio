@@ -5,7 +5,8 @@
   },
   "api": {
     "projectId": "rl6lxqo9",
-    "dataset": "production"
+    "dataset": "production",
+    "rwToken": "skTUs9BvCpQ0gkjgPZ8fxxXytazDHtP28Sp8RvwdGjz3ksqGM1yPiv7I6kbI1NmLdLgt93vdr6PgsftgBwdkVrKYTIaWt4M7we9xmlV0treGBlVJ0VHG1GjhPg0yr0XrR96cJ5xLOGygD5aHIjQzSCdmXU92NaOtXjqOdla2xqCNm3OkYAFH"
   },
   "plugins": [
     "@sanity/base",
